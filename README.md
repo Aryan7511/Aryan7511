@@ -21,7 +21,7 @@ I am a Full stack developer from :house: Bhopal, India!
 - **Testing Frameworks/Libraries**: Jest
 - **Web technologies**: HTML5, CSS3, JavaScript
 - **Databases**: MongoDB, MySQL
-- **Misc**: Git, Typescript, Socket.io, Stripe , kinde, clerk, prisma, CI/CD, NATS Streaming Server
+- **Misc**: Git, Typescript, Socket.io, Stripe , Kinde, Clerk, Prisma, CI/CD, NATS Streaming Server
 - **Languages**: C, C++, JavaScript,TypeScript, Java
 
 <!--
